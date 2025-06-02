@@ -25,3 +25,17 @@ It includes
 - Adding foreign key constraints, 
 - Insert dummy data into the tables
 - Stored procedure for discount and some basic views.
+
+# Modify
+Only use
+---
+Buyer (customer)
+Supplier
+Product
+Order
+Warehouse
+Shipping
+payment
+invoices
+cost
+---
