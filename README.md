@@ -28,14 +28,14 @@ It includes
 
 # Modify
 Only use
----
-Buyer (customer)
-Supplier
-Product
-Order
-Warehouse
-Shipping
-payment
-invoices
-cost
----
+
+- Buyer (customer)
+- Supplier
+- Product (commodity)
+- Order
+- Warehouse
+- Shipping
+- payment
+- invoices
+- cost
+
